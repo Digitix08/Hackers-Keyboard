@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="abc_action_bar_default_height_material">48.0dip</dimen>
+    <dimen name="abc_text_size_subtitle_material_toolbar">12.0dip</dimen>
+    <dimen name="abc_text_size_title_material_toolbar">14.0dip</dimen>
+    <dimen name="candidate_strip_height">38.0dip</dimen>
+    <dimen name="key_height">0.25in</dimen>
+    <dimen name="key_label_text_size">0.103000045in</dimen>
+    <dimen name="key_preview_text_size_large">50.0sp</dimen>
+    <dimen name="key_text_size">0.13800001in</dimen>
+    <dimen name="key_vertical_pad">0.0in</dimen>
+    <dimen name="keyboard_bottom_padding">0.00999999in</dimen>
+    <dimen name="mini_keyboard_slide_allowance">0.459in</dimen>
+    <dimen name="mini_keyboard_vertical_correction">-0.26999998in</dimen>
+    <dimen name="popup_key_height">0.26999998in</dimen>
+    <dimen name="spacebar_vertical_correction">2.0dip</dimen>
+    <dimen name="abc_action_bar_progress_bar_size">32.0dip</dimen>
+</resources>

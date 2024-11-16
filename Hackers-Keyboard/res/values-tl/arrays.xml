@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="prediction_modes">
+        <item>Wala</item>
+        <item>Batayan</item>
+        <item>Advanced</item>
+    </string-array>
+    <string-array name="voice_input_modes">
+        <item>I-on ang pangunahing keyboard</item>
+        <item>Sa mga simbolo ng keyboard</item>
+        <item>Naka-off</item>
+    </string-array>
+    <string-array name="voice_input_modes_summary">
+        <item>Mic sa pangunahing keyboard</item>
+        <item>Mic sa keyboard ng mga simbolo</item>
+        <item>Hindi pinagana ang pag-input ng boses</item>
+    </string-array>
+</resources>

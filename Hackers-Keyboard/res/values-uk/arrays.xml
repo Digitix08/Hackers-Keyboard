@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="prediction_modes">
+        <item>Немає</item>
+        <item>Базовий</item>
+        <item>Розшир.</item>
+    </string-array>
+    <string-array name="voice_input_modes">
+        <item>На осн. клавіатурі</item>
+        <item>Символьна клавіатура</item>
+        <item>Вимк.</item>
+    </string-array>
+    <string-array name="voice_input_modes_summary">
+        <item>Miкр. на осн. клавіатурі</item>
+        <item>Miкр. на символ. клавіатурі</item>
+        <item>Голос. ввід вимкнуто</item>
+    </string-array>
+</resources>

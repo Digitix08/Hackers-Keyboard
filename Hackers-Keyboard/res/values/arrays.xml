@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="chording_alt_key_entries">
+        <item>None (ignored when not modifying other keys)</item>
+        <item>Left Alt</item>
+        <item>Right Alt</item>
+    </string-array>
+    <string-array name="chording_alt_key_values">
+        <item>0</item>
+        <item>57</item>
+        <item>58</item>
+    </string-array>
+    <string-array name="chording_ctrl_key_entries">
+        <item>None (ignored when not modifying other keys)</item>
+        <item>Left Ctrl</item>
+        <item>Right Ctrl</item>
+    </string-array>
+    <string-array name="chording_ctrl_key_values">
+        <item>0</item>
+        <item>113</item>
+        <item>114</item>
+    </string-array>
+    <string-array name="chording_meta_key_entries">
+        <item>None (ignored when not modifying other keys)</item>
+        <item>Left Meta</item>
+        <item>Right Meta</item>
+    </string-array>
+    <string-array name="chording_meta_key_values">
+        <item>0</item>
+        <item>117</item>
+        <item>118</item>
+    </string-array>
+    <string-array name="click_method_entries">
+        <item>System default (ignore click volume)</item>
+        <item>Absolute click volume</item>
+        <item>Follow media volume</item>
+        <item>Reverse media volume</item>
+    </string-array>
+    <string-array name="click_method_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="ctrl_a_override_entries">
+        <item>Disable Ctrl-A, use Ctrl-Alt-A instead</item>
+        <item>Disable Ctrl-A completely</item>
+        <item>Use Ctrl-A (no override)</item>
+    </string-array>
+    <string-array name="ctrl_a_override_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="hint_modes">
+        <item>Hide hint labels</item>
+        <item>Show ASCII punctuation</item>
+        <item>Show all hint labels</item>
+    </string-array>
+    <string-array name="hint_modes_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="keyboard_layout_modes">
+        <item>@string/layout_ics</item>
+        <item>@string/layout_ics_darker</item>
+        <item>@string/layout_material_dark</item>
+        <item>@string/layout_material_light</item>
+        <item>@string/layout_gingerbread</item>
+        <item>@string/layout_stone_bold</item>
+        <item>@string/layout_trans_neon</item>
+    </string-array>
+    <string-array name="keyboard_layout_modes_values">
+        <item>0</item>
+        <item>6</item>
+        <item>4</item>
+        <item>5</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="keyboard_mode_entries">
+        <item>4-row Gingerbread layout</item>
+        <item>5-row compact layout (US QWERTY only!)</item>
+        <item>Full 5-row layout</item>
+    </string-array>
+    <string-array name="keyboard_mode_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="popup_content_entries">
+        <item>No popups</item>
+        <item>No popups, use auto-repeat</item>
+        <item>Unique only: 3 ⇒ ³, e ⇒ é</item>
+        <item>Add shifted: 3 ⇒ #³, e ⇒ é</item>
+        <item>Add upper: 3 ⇒ #³, e ⇒ Eé</item>
+        <item>Add self: 3 ⇒ 3#³, e ⇒ eEé</item>
+    </string-array>
+    <string-array name="popup_content_values">
+        <item>256</item>
+        <item>768</item>
+        <item>0</item>
+        <item>1</item>
+        <item>3</item>
+        <item>7</item>
+    </string-array>
+    <string-array name="prediction_modes">
+        <item>None</item>
+        <item>Basic</item>
+        <item>Advanced</item>
+    </string-array>
+    <string-array name="prediction_modes_values">
+        <item>@string/prediction_none</item>
+        <item>@string/prediction_basic</item>
+        <item>@string/prediction_full</item>
+    </string-array>
+    <string-array name="render_mode_entries">
+        <item>Direct draw (saves memory)</item>
+        <item>Software buffered (default)</item>
+        <item>Hardware accelerated (experimental)</item>
+    </string-array>
+    <string-array name="render_mode_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="settings_key_modes">
+        <item>@string/settings_key_mode_auto_name</item>
+        <item>@string/settings_key_mode_always_show_name</item>
+        <item>@string/settings_key_mode_always_hide_name</item>
+    </string-array>
+    <string-array name="settings_key_modes_values">
+        <item>@string/settings_key_mode_auto</item>
+        <item>@string/settings_key_mode_always_show</item>
+        <item>@string/settings_key_mode_always_hide</item>
+    </string-array>
+    <string-array name="slide_keys_entries">
+        <item>Ignore keys during sliding movement (Recommended)</item>
+        <item>Send first key touched</item>
+        <item>Send last key touched</item>
+        <item>Send first and last key</item>
+        <item>Send all keys touched during sliding movement</item>
+    </string-array>
+    <string-array name="slide_keys_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="swipe_action_entries">
+        <item>(no action)</item>
+        <item>Close keyboard</item>
+        <item>Toggle extension row</item>
+        <item>Launch Settings</item>
+        <item>Toggle suggestions</item>
+        <item>Voice input</item>
+        <item>Switch keyboard layout</item>
+        <item>Increase height</item>
+        <item>Decrease height</item>
+        <item>Previous language</item>
+        <item>Next language</item>
+    </string-array>
+    <string-array name="swipe_action_values">
+        <item>none</item>
+        <item>close</item>
+        <item>extension</item>
+        <item>settings</item>
+        <item>suggestions</item>
+        <item>voice_input</item>
+        <item>full_mode</item>
+        <item>height_up</item>
+        <item>height_down</item>
+        <item>lang_prev</item>
+        <item>lang_next</item>
+    </string-array>
+    <string-array name="voice_input_modes">
+        <item>On main keyboard</item>
+        <item>On symbols keyboard</item>
+        <item>Off</item>
+    </string-array>
+    <string-array name="voice_input_modes_summary">
+        <item>Mic on main keyboard</item>
+        <item>Mic on symbols keyboard</item>
+        <item>Voice input is disabled</item>
+    </string-array>
+    <string-array name="voice_input_modes_values">
+        <item>@string/voice_mode_main</item>
+        <item>@string/voice_mode_symbols</item>
+        <item>@string/voice_mode_off</item>
+    </string-array>
+</resources>

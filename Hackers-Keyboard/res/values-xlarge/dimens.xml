@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="dimen" name="abc_dialog_fixed_width_major">50.0%</item>
+    <item type="dimen" name="abc_dialog_fixed_width_minor">69.99999%</item>
+    <item type="dimen" name="abc_dialog_min_width_major">45.000004%</item>
+    <item type="dimen" name="abc_dialog_min_width_minor">72.0%</item>
+    <dimen name="key_height">0.5in</dimen>
+    <dimen name="key_horizontal_pad">0.03999996in</dimen>
+    <dimen name="key_label_text_size">0.16999996in</dimen>
+    <dimen name="key_text_size">0.20000005in</dimen>
+    <dimen name="key_vertical_pad">0.03999996in</dimen>
+    <dimen name="key_vertical_pad_compact">0.03999996in</dimen>
+    <dimen name="keyboard_bottom_padding">0.059999943in</dimen>
+    <dimen name="popup_key_height">0.5in</dimen>
+</resources>

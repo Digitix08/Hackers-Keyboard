@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="prediction_modes">
+        <item>Ei mitään</item>
+        <item>Tavallinen</item>
+        <item>Edistynyt</item>
+    </string-array>
+    <string-array name="voice_input_modes">
+        <item>Päänäppäimistössä</item>
+        <item>Symbolinäppäimistössä</item>
+        <item>Pois käytöstä</item>
+    </string-array>
+    <string-array name="voice_input_modes_summary">
+        <item>Päänäppäimistön mikrofoni</item>
+        <item>Symbolinäppäimistön mikrofoni</item>
+        <item>Äänisyöte ei ole käytössä</item>
+    </string-array>
+</resources>

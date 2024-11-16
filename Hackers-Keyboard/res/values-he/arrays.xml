@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="prediction_modes">
+        <item>ללא</item>
+        <item>בסיסי</item>
+        <item>מתקדם</item>
+    </string-array>
+    <string-array name="voice_input_modes">
+        <item>במקלדת הראשית</item>
+        <item>מקלדת סמלים מופעלת</item>
+        <item>כבוי</item>
+    </string-array>
+    <string-array name="voice_input_modes_summary">
+        <item>מיקרופון במקלדת הראשית</item>
+        <item>מיקרופון במקלדת סמלים</item>
+        <item>הקלט הקולי מושבת</item>
+    </string-array>
+</resources>

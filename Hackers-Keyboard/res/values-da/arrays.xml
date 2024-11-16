@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="prediction_modes">
+        <item>Ingen</item>
+        <item>Grundlæggende</item>
+        <item>Avanceret</item>
+    </string-array>
+    <string-array name="voice_input_modes">
+        <item>På hovedtastatur</item>
+        <item>På symboltastatur</item>
+        <item>Fra</item>
+    </string-array>
+    <string-array name="voice_input_modes_summary">
+        <item>Mikrofon på hovedtastatur</item>
+        <item>Mikrofon på symboltastatur</item>
+        <item>Stemmeinput er deaktiveret</item>
+    </string-array>
+</resources>

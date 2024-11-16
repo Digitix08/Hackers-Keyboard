@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="prediction_modes">
+        <item>Nijedan</item>
+        <item>Osnovni</item>
+        <item>Napredno</item>
+    </string-array>
+    <string-array name="voice_input_modes">
+        <item>Na glavnoj tipkovnici</item>
+        <item>Na tipkovnici sa simbolima</item>
+        <item>Isključeno</item>
+    </string-array>
+    <string-array name="voice_input_modes_summary">
+        <item>Mikrofon na glavnoj tipkovnici</item>
+        <item>Mikrofon na tipkovnici sa simbolima</item>
+        <item>Glasovni unos je onemogućen</item>
+    </string-array>
+</resources>

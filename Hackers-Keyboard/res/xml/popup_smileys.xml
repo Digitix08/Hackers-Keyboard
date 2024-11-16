@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Keyboard android:horizontalGap="0.0px" android:keyHeight="@dimen/popup_key_height" android:keyWidth="14.999998%p" android:verticalGap="0.0px" xmlns:android="http://schemas.android.com/apk/res-auto">
+    <Row android:rowEdgeFlags="top">
+        <Key android:keyEdgeFlags="left" android:keyLabel=":-)" android:keyOutputText=":-) " />
+        <Key android:keyLabel=":-(" android:keyOutputText=":-( " />
+        <Key android:keyLabel=";-)" android:keyOutputText=";-) " />
+        <Key android:keyLabel=":-P" android:keyOutputText=":-P " />
+        <Key android:keyEdgeFlags="right" android:keyLabel="=-O" android:keyOutputText="=-O " />
+    </Row>
+    <Row>
+        <Key android:keyEdgeFlags="left" android:keyLabel=":-*" android:keyOutputText=":-* " />
+        <Key android:keyLabel=":O" android:keyOutputText=":O " />
+        <Key android:keyLabel="B-)" android:keyOutputText="B-) " />
+        <Key android:keyLabel=":-$" android:keyOutputText=":-$ " />
+        <Key android:keyEdgeFlags="right" android:keyLabel=":-!" android:keyOutputText=":-! " />
+    </Row>
+    <Row android:rowEdgeFlags="bottom">
+        <Key android:keyEdgeFlags="left" android:keyLabel=":-[" android:keyOutputText=":-[ " />
+        <Key android:keyLabel="O:-)" android:keyOutputText="O:-) " />
+        <Key android:keyLabel=":-\\" android:keyOutputText=":-\\ " />
+        <Key android:keyLabel=":'(" android:keyOutputText=":'( " />
+        <Key android:keyEdgeFlags="right" android:keyLabel=":-D" android:keyOutputText=":-D " />
+    </Row>
+</Keyboard>

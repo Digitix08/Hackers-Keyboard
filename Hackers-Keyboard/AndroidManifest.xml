@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" package="org.pocketworkstation.pckeyboard" platformBuildVersionCode="1041001" platformBuildVersionName="v1.41.2">
+    <uses-permission android:name="android.permission.VIBRATE"/>
+    <uses-permission android:name="android.permission.READ_USER_DICTIONARY"/>
+    <uses-permission android:name="android.permission.WRITE_USER_DICTIONARY"/>
+    <uses-feature android:name="android.hardware.microphone" android:required="false"/>
+    <uses-feature android:name="android.hardware.faketouch" android:required="false"/>
+    <uses-feature android:name="android.hardware.touchscreen" android:required="false"/>
+    <application android:allowBackup="true" android:backupAgent="org.pocketworkstation.pckeyboard.LatinIMEBackupAgent" android:hardwareAccelerated="false" android:icon="@drawable/icon" android:killAfterRestore="false" android:label="@string/english_ime_name" android:restoreAnyVersion="true">
+        <service android:label="@string/english_ime_name" android:name="org.pocketworkstation.pckeyboard.LatinIME" android:permission="android.permission.BIND_INPUT_METHOD">
+            <intent-filter>
+                <action android:name="android.view.InputMethod"/>
+            </intent-filter>
+            <meta-data android:name="android.view.im" android:resource="@xml/method"/>
+        </service>
+        <activity android:label="Hacker's Keyboard" android:name="org.pocketworkstation.pckeyboard.Main">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <activity android:label="@string/english_ime_settings" android:name="org.pocketworkstation.pckeyboard.LatinIMESettings">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <action android:name="org.pocketworkstation.pckeyboard.SETTINGS"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:label="@string/language_selection_title" android:name="org.pocketworkstation.pckeyboard.InputLanguageSelection">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <action android:name="org.pocketworkstation.pckeyboard.INPUT_LANGUAGE_SELECTION"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:label="@string/pref_screen_actions_title" android:name="org.pocketworkstation.pckeyboard.PrefScreenActions">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <action android:name="org.pocketworkstation.pckeyboard.PREFS_ACTIONS"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:label="@string/pref_screen_actions_title" android:name="org.pocketworkstation.pckeyboard.PrefScreenView">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <action android:name="org.pocketworkstation.pckeyboard.PREFS_VIEW"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:label="@string/pref_screen_feedback_title" android:name="org.pocketworkstation.pckeyboard.PrefScreenFeedback">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <action android:name="org.pocketworkstation.pckeyboard.PREFS_FEEDBACK"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+    </application>
+</manifest>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="prediction_modes">
+        <item>Nincs</item>
+        <item>Alap</item>
+        <item>Speciális</item>
+    </string-array>
+    <string-array name="voice_input_modes">
+        <item>Főbillentyűzeten</item>
+        <item>Szimbólumbillentyűzeten</item>
+        <item>Ki</item>
+    </string-array>
+    <string-array name="voice_input_modes_summary">
+        <item>Mikrofon a főbillentyűzeten</item>
+        <item>Mikrofon a szimbólumbillentyűzeten</item>
+        <item>A hangbevitel ki van kapcsolva</item>
+    </string-array>
+</resources>

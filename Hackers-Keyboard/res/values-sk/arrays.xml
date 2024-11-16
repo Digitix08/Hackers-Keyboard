@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="prediction_modes">
+        <item>Žiadne</item>
+        <item>Základné</item>
+        <item>Rozšírené</item>
+    </string-array>
+    <string-array name="voice_input_modes">
+        <item>Na hlavnej klávesnici</item>
+        <item>Na klávesnici so symbolmi</item>
+        <item>Vypnuté</item>
+    </string-array>
+    <string-array name="voice_input_modes_summary">
+        <item>Mikrofón na hlavnej klávesnici</item>
+        <item>Mikrofón na klávesnici so symbolmi</item>
+        <item>Hlasový vstup je zakázaný</item>
+    </string-array>
+</resources>

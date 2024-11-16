@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="prediction_modes">
+        <item>Kein</item>
+        <item>Standard</item>
+        <item>Erweitert</item>
+    </string-array>
+    <string-array name="voice_input_modes">
+        <item>Auf Haupttastatur</item>
+        <item>Auf Symboltastatur</item>
+        <item>Aus</item>
+    </string-array>
+    <string-array name="voice_input_modes_summary">
+        <item>Mikrofon auf Haupttastatur</item>
+        <item>Mikrofon auf Symboltastatur</item>
+        <item>Spracheingabe ist deaktiviert</item>
+    </string-array>
+</resources>

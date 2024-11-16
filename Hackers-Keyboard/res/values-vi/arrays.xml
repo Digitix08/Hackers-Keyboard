@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="prediction_modes">
+        <item>Không</item>
+        <item>Cơ bản</item>
+        <item>Nâng cao</item>
+    </string-array>
+    <string-array name="voice_input_modes">
+        <item>Trên bàn phím chính</item>
+        <item>Trên bàn phím có biểu tượng</item>
+        <item>Tắt</item>
+    </string-array>
+    <string-array name="voice_input_modes_summary">
+        <item>Micrô trên bàn phím chính</item>
+        <item>Micrô trên bàn phím có biểu tượng</item>
+        <item>Nhập liệu bằng giọng nói đã bị vô hiệu hoá</item>
+    </string-array>
+</resources>

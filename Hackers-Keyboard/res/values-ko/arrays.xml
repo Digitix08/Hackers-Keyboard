@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="prediction_modes">
+        <item>없음</item>
+        <item>기본</item>
+        <item>고급</item>
+    </string-array>
+    <string-array name="voice_input_modes">
+        <item>기본 키보드</item>
+        <item>기호 키보드</item>
+        <item>사용 안함</item>
+    </string-array>
+    <string-array name="voice_input_modes_summary">
+        <item>기본 키보드의 마이크</item>
+        <item>기호 키보드의 마이크</item>
+        <item>음성 입력이 사용 중지됨</item>
+    </string-array>
+</resources>

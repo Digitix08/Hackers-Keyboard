@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="prediction_modes">
+        <item>Yok</item>
+        <item>Temel</item>
+        <item>Gelişmiş</item>
+    </string-array>
+    <string-array name="voice_input_modes">
+        <item>Ana klavyede</item>
+        <item>Simge klavyesinde</item>
+        <item>Kapalı</item>
+    </string-array>
+    <string-array name="voice_input_modes_summary">
+        <item>Ana klavyedeki mikrofon</item>
+        <item>Simge klavyesindeki mikrofon</item>
+        <item>Sesle giriş devre dışı bırakıldı</item>
+    </string-array>
+</resources>

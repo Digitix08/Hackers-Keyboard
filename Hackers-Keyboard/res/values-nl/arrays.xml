@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="prediction_modes">
+        <item>Geen</item>
+        <item>Basis</item>
+        <item>Geavanceerd</item>
+    </string-array>
+    <string-array name="voice_input_modes">
+        <item>Op hoofdtoetsenbord</item>
+        <item>Op toetsenbord voor symbolen</item>
+        <item>Uit</item>
+    </string-array>
+    <string-array name="voice_input_modes_summary">
+        <item>Microfoon op hoofdtoetsenbord</item>
+        <item>Microfoon op toetsenbord voor symbolen</item>
+        <item>Spraakinvoer is uitgeschakeld</item>
+    </string-array>
+</resources>

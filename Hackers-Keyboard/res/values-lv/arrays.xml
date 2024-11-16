@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="prediction_modes">
+        <item>Nav</item>
+        <item>Pamata</item>
+        <item>Uzlabots</item>
+    </string-array>
+    <string-array name="voice_input_modes">
+        <item>Izmantojot galveno tastatūru</item>
+        <item>Izmantojot simbolu tastatūru</item>
+        <item>Izsl.</item>
+    </string-array>
+    <string-array name="voice_input_modes_summary">
+        <item>Galvenās tastatūras mikrofons</item>
+        <item>Simbolu tastatūras mikrofons</item>
+        <item>Balss ievade ir atspējota</item>
+    </string-array>
+</resources>

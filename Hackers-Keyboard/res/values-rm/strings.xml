@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="added_word">%s : Memorisà</string>
+    <string name="alternates_for_a">àáâãäåæ</string>
+    <string name="alternates_for_c">ç</string>
+    <string name="alternates_for_e">3èéêë</string>
+    <string name="alternates_for_i">8ïîíì</string>
+    <string name="alternates_for_n">ñ</string>
+    <string name="alternates_for_o">9øœõôöóò</string>
+    <string name="alternates_for_s">§ß</string>
+    <string name="alternates_for_u">7üûúù</string>
+    <string name="alternates_for_y">6ÿý</string>
+    <string name="auto_cap">Maiusclas automaticas</string>
+    <string name="auto_cap_summary">"Scriver grond l'entschatta da mintga frasa"</string>
+    <string name="auto_complete">Cumplettaziun automatica</string>
+    <string name="auto_complete_dialog_title">Cumplettaziun automatica</string>
+    <string name="auto_complete_summary">Inserir auto. il pled marcà cun la tasta da vid/interpuncziun</string>
+    <string name="auto_correction">Propostas da pleds</string>
+    <string name="auto_correction_summary">Curreger automaticamain il pled precedent</string>
+    <string name="auto_punctuate">Interpuncziun automatica</string>
+    <string name="auto_punctuate_summary" />
+    <string name="auto_submit">Trametter automaticamain suenter il cumond vocal</string>
+    <string name="auto_submit_summary">Smatgai sin la tasta enter sche Vus exequis ina tschertga u siglis al proxim champ.</string>
+    <string name="bigram_suggestion">Propostas da tip bigram</string>
+    <string name="bigram_suggestion_summary">Meglierar la proposta cun agid dal pled precedent</string>
+    <string name="cancel">Interrumper</string>
+    <string name="close_the_keyboard">\"<font size="17"><b>"Serrar la tastatura
+"</b></font><font size="3">"
+"</font>Smatgai il buttun \"\"Enavos\"\".\"</string>
+    <string name="has_dictionary">Dicziunari disponibel</string>
+    <string name="hint_add_to_dictionary">← Tippar danovamain per memorisar</string>
+    <string name="hit_correction">"Curreger sbagls d'endataziun"</string>
+    <string name="hit_correction_land">"Sbagls d'endataziun en il format orizontal"</string>
+    <string name="hit_correction_land_summary">"Activar la correctura da sbagls d'endataziun"</string>
+    <string name="hit_correction_summary">"Activar la correctura da sbagls d'endataziun"</string>
+    <string name="keyboard_layout">Design da la tastatura</string>
+    <string name="keyboard_settings"><font size="17"><b>"Parameters da tastatura
+"</b></font><font size="3">"
+"</font>Tutgai e tegnai smatgà il buttun <b>?123</b>.</string>
+    <string name="label_alpha_key">ABC</string>
+    <string name="label_alt_key">ALT</string>
+    <string name="label_done_key">Finì</string>
+    <string name="label_go_key">Dai</string>
+    <string name="label_next_key">Vinavant</string>
+    <string name="label_phone_key">123</string>
+    <string name="label_send_key">Trametter</string>
+    <string name="label_symbol_key">\?123</string>
+    <string name="language_selection_summary">Stritgar cun il det sur la tasta da vid per midar la lingua</string>
+    <string name="language_selection_title">Linguas da cumonds vocals</string>
+    <string name="ok">OK</string>
+    <string name="popular_domain_0">.com</string>
+    <string name="popular_domain_1">.net</string>
+    <string name="popular_domain_2">.org</string>
+    <string name="popular_domain_3">.gov</string>
+    <string name="popular_domain_4">.edu</string>
+    <string name="popup_on_keypress">Pop-up cun smatgar ina tasta</string>
+    <string name="prediction">Propostas da pleds</string>
+    <string name="prediction_category">Parameters da las propostas per pleds</string>
+    <string name="prediction_landscape">Engrondir il champ da text</string>
+    <string name="prediction_landscape_summary">Zuppentar propostas da pleds en il format orizontal</string>
+    <string name="prediction_summary">"Activar la cumplettaziun automatica durant l'endataziun"</string>
+    <string name="prefs_description_log">"Gidai a meglierar quest editur da la metoda d'endataziun cun trametter automaticamain datas statisticas davart l'utilisaziun e rapports da collaps a Google."</string>
+    <string name="prefs_enable_log">"Activar il feedback da l'utilisader"</string>
+    <string name="quick_fixes">Correcturas sveltas</string>
+    <string name="quick_fixes_summary">Curregia sbagls da tippar currents</string>
+    <string name="show_suggestions">Mussar las propostas</string>
+    <string name="show_suggestions_summary">"Mussar pleds proponids durant l'endataziun"</string>
+    <string name="sound_on_keypress">Tun cun smatgar in buttun</string>
+    <string name="subtype_mode_keyboard">tastatura</string>
+    <string name="subtype_mode_voice">vusch</string>
+    <string name="tip_access_symbols">Acceder a cifras e simbols</string>
+    <string name="tip_add_to_dictionary">"Smatgar ditg sin il pled dal tut a sanestra per l'agiuntar al dicziunari"</string>
+    <string name="tip_dismiss">Smatgar ↶ per serrar la tastatura</string>
+    <string name="tip_long_press">\"Tegnair smatgà per mussar ils accents (à, é, etc.)\"</string>
+    <string name="touch_and_hold"><font size="17"><b>"Tutgar e tegnair smatgà in buttun per acceder a las opziuns
+"</b></font><font size="3">"
+"</font>"Accedi a segns d'interpuncziun ed accents."</string>
+    <string name="touch_to_continue">Tutgar quest commentari per cuntinuar »</string>
+    <string name="touch_to_finish">\"Tutgar qua, per serrar quest commentari e cumenzar a tippar!\"</string>
+    <string name="vibrate_on_keypress">Vibrar cun smatgar in buttun</string>
+    <string name="voice_audio_error">Problem audio</string>
+    <string name="voice_error">Errur. Empruvai anc ina giada.</string>
+    <string name="voice_hint_dialog_message">\"Per utilisar ils cumonds vocals, smatgai il buttun dal microfon u stritgai cun il det sur la tastatura dal visur.\"</string>
+    <string name="voice_initializing" />
+    <string name="voice_input">Cumonds vocals</string>
+    <string name="voice_listening">Ussa discurrer</string>
+    <string name="voice_network_error">Impussibel da connectar.</string>
+    <string name="voice_no_match">Betg chattà correspundenzas</string>
+    <string name="voice_not_installed">Betg installà la tschertga vocala</string>
+    <string name="voice_punctuation_hint">\"<b>Commentari:</b>" Empruvai la proxima giada d'agiuntar segns d'interpuncziun sco \"\"punct\"\", \"\"comma\"\" u \"\"segn da dumonda\"\" cun cumonds vocals.\""</string>
+    <string name="voice_server_error">Errur dal server</string>
+    <string name="voice_speech_timeout">Betg udì ina frasa vocala</string>
+    <string name="voice_swipe_hint"><b>Commentari:</b> Stritgai cun il det sur la tastatura per discurrer.</string>
+    <string name="voice_too_much_speech">Errur - discurrì memia ditg.</string>
+    <string name="voice_warning_how_to_turn_off">\"Per deactivar ils cumonds vocals, avri ils parameters da tastatura.\"</string>
+    <string name="voice_warning_locale_not_supported">\"Cumonds vocals en Vossa lingua na vegnan actualmain betg sustegnids, ma la funcziun è disponibla per englais.\"</string>
+    <string name="voice_warning_may_not_understand">Ils cumonds vocals èn ina funcziunalitad experimentala che utilisescha la renconuschientscha vocala da rait da Google.</string>
+    <string name="voice_warning_title">Cumonds vocals</string>
+    <string name="voice_working">Operaziun en progress</string>
+</resources>

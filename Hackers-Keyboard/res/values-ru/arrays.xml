@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="prediction_modes">
+        <item>Нет</item>
+        <item>Основной</item>
+        <item>Дополнительно</item>
+    </string-array>
+    <string-array name="voice_input_modes">
+        <item>На основной клавиатуре</item>
+        <item>На клавиатуре символов</item>
+        <item>Выкл.</item>
+    </string-array>
+    <string-array name="voice_input_modes_summary">
+        <item>Микрофон на основной клавиатуре</item>
+        <item>Микрофон на клавиатуре символов</item>
+        <item>Голосовой ввод отключен</item>
+    </string-array>
+</resources>

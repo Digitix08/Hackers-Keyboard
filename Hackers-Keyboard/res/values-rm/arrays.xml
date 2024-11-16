@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="prediction_modes">
+        <item>Nagin</item>
+        <item>Simpel</item>
+        <item>Avanzà</item>
+    </string-array>
+    <string-array name="voice_input_modes">
+        <item>Sin la tastatura principala</item>
+        <item>Sin la tastatura da simbols</item>
+        <item>Deactivà</item>
+    </string-array>
+    <string-array name="voice_input_modes_summary">
+        <item>Microfon sin la tastatura principala</item>
+        <item>Microfon sin la tastatura da simbols</item>
+        <item>Ils cumonds vocals èn deactivads</item>
+    </string-array>
+</resources>

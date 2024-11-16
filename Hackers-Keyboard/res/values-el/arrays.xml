@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="prediction_modes">
+        <item>Καμία</item>
+        <item>Βασική</item>
+        <item>Σύνθετη</item>
+    </string-array>
+    <string-array name="voice_input_modes">
+        <item>Στο κύριο πληκτρολόγιο</item>
+        <item>Πληκτρολόγιο συμβόλων ενεργοποίησης</item>
+        <item>Απενεργοποίηση</item>
+    </string-array>
+    <string-array name="voice_input_modes_summary">
+        <item>Μικρόφωνο στο κύριο πληκτρολόγιο</item>
+        <item>Μικρόφωνο στο πληκτρολόγιο συμβόλων</item>
+        <item>Η φωνητική είσοδος είναι απενεργοποιημένη</item>
+    </string-array>
+</resources>

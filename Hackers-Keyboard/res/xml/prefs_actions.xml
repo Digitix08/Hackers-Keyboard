@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/pref_screen_actions_title" android:key="prefs_actions"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="@string/title_swipe_gestures" android:key="swipe_actions">
+        <org.pocketworkstation.pckeyboard.AutoSummaryListPreference android:persistent="true" android:entries="@array/swipe_action_entries" android:title="@string/title_swipe_up" android:key="pref_swipe_up" android:defaultValue="@string/default_swipe_up" android:entryValues="@array/swipe_action_values" />
+        <org.pocketworkstation.pckeyboard.AutoSummaryListPreference android:persistent="true" android:entries="@array/swipe_action_entries" android:title="@string/title_swipe_down" android:key="pref_swipe_down" android:defaultValue="@string/default_swipe_down" android:entryValues="@array/swipe_action_values" />
+        <org.pocketworkstation.pckeyboard.AutoSummaryListPreference android:persistent="true" android:entries="@array/swipe_action_entries" android:title="@string/title_swipe_left" android:key="pref_swipe_left" android:defaultValue="@string/default_swipe_left" android:entryValues="@array/swipe_action_values" />
+        <org.pocketworkstation.pckeyboard.AutoSummaryListPreference android:persistent="true" android:entries="@array/swipe_action_entries" android:title="@string/title_swipe_right" android:key="pref_swipe_right" android:defaultValue="@string/default_swipe_right" android:entryValues="@array/swipe_action_values" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/title_hardware_key_actions" android:key="key_actions">
+        <org.pocketworkstation.pckeyboard.AutoSummaryListPreference android:persistent="true" android:entries="@array/swipe_action_entries" android:title="@string/title_vol_up" android:key="pref_vol_up" android:defaultValue="@string/default_vol_up" android:entryValues="@array/swipe_action_values" />
+        <org.pocketworkstation.pckeyboard.AutoSummaryListPreference android:persistent="true" android:entries="@array/swipe_action_entries" android:title="@string/title_vol_down" android:key="pref_vol_down" android:defaultValue="@string/default_vol_down" android:entryValues="@array/swipe_action_values" />
+    </PreferenceCategory>
+</PreferenceScreen>

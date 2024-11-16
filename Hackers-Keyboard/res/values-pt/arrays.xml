@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="prediction_modes">
+        <item>Nenhum</item>
+        <item>Básico</item>
+        <item>Avançado</item>
+    </string-array>
+    <string-array name="voice_input_modes">
+        <item>No teclado principal</item>
+        <item>No teclado de símbolos</item>
+        <item>Desativado</item>
+    </string-array>
+    <string-array name="voice_input_modes_summary">
+        <item>Microfone no teclado principal</item>
+        <item>Microfone no teclado de símbolos</item>
+        <item>Entrada de voz desativada</item>
+    </string-array>
+</resources>

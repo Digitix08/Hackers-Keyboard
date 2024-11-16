@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="prediction_modes">
+        <item>无</item>
+        <item>基本模式</item>
+        <item>高级</item>
+    </string-array>
+    <string-array name="voice_input_modes">
+        <item>主键盘上</item>
+        <item>符号键盘上</item>
+        <item>关</item>
+    </string-array>
+    <string-array name="voice_input_modes_summary">
+        <item>主键盘上的麦克风</item>
+        <item>符号键盘上的麦克风</item>
+        <item>已停用语音输入</item>
+    </string-array>
+</resources>

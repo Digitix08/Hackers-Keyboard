@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="prediction_modes">
+        <item>Ninguno</item>
+        <item>Básico</item>
+        <item>Avanzado</item>
+    </string-array>
+    <string-array name="voice_input_modes">
+        <item>En el teclado principal</item>
+        <item>En el teclado de símbolos</item>
+        <item>Apagado</item>
+    </string-array>
+    <string-array name="voice_input_modes_summary">
+        <item>Micrófono en el teclado principal</item>
+        <item>Micrófono en el teclado de símbolos</item>
+        <item>La entrada por voz está inhabilitada.</item>
+    </string-array>
+</resources>

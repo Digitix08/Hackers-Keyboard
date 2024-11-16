@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="prediction_modes">
+        <item>Brak</item>
+        <item>Podstawowy</item>
+        <item>Zaawansowany</item>
+    </string-array>
+    <string-array name="voice_input_modes">
+        <item>Na klawiaturze głównej</item>
+        <item>Na klawiaturze z symbolami</item>
+        <item>Wyłączone</item>
+    </string-array>
+    <string-array name="voice_input_modes_summary">
+        <item>Mikrofon na klawiaturze głównej</item>
+        <item>Mikrofon na klawiaturze z symbolami</item>
+        <item>Wprowadzanie głosowe jest wyłączone</item>
+    </string-array>
+</resources>

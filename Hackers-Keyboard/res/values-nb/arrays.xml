@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="prediction_modes">
+        <item>Ingen</item>
+        <item>Grunnleggende</item>
+        <item>Avansert</item>
+    </string-array>
+    <string-array name="voice_input_modes">
+        <item>På hovedtastatur</item>
+        <item>På talltastatur</item>
+        <item>Av</item>
+    </string-array>
+    <string-array name="voice_input_modes_summary">
+        <item>Mikrofon på hovedtastatur</item>
+        <item>Mikrofon på talltastatur</item>
+        <item>Talekommando er deaktivert</item>
+    </string-array>
+</resources>

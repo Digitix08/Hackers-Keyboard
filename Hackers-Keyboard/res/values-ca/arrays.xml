@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="prediction_modes">
+        <item>Cap</item>
+        <item>Bàsic</item>
+        <item>Avançat</item>
+    </string-array>
+    <string-array name="voice_input_modes">
+        <item>Al teclat principal</item>
+        <item>Al teclat de símbols</item>
+        <item>Desactivat</item>
+    </string-array>
+    <string-array name="voice_input_modes_summary">
+        <item>Micròfon al teclat principal</item>
+        <item>Micròfon al teclat de símbols</item>
+        <item>"L'entrada de veu està desactivada"</item>
+    </string-array>
+</resources>

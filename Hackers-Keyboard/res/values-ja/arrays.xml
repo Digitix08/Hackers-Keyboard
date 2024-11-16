@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="prediction_modes">
+        <item>なし</item>
+        <item>基本</item>
+        <item>高度</item>
+    </string-array>
+    <string-array name="voice_input_modes">
+        <item>メインキーボード上</item>
+        <item>記号キーボード上</item>
+        <item>OFF</item>
+    </string-array>
+    <string-array name="voice_input_modes_summary">
+        <item>メインキーボードのマイク</item>
+        <item>記号キーボードのマイク</item>
+        <item>音声入力は無効です</item>
+    </string-array>
+</resources>

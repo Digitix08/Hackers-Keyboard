@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<org.pocketworkstation.pckeyboard.LatinKeyboardView android:id="@id/LatinkeyboardBaseView" android:background="@drawable/keyboard_background_lxx_dark" android:paddingBottom="@dimen/keyboard_bottom_padding" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true" latin:keyBackground="@drawable/btn_keyboard_key_lxx_dark" latin:keyHintColor="@color/key_hint_letter_color_lxx_dark" latin:keyTextColor="@color/key_text_color_lxx_dark" latin:popupLayout="@layout/input_popup_material_dark"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:latin="http://schemas.android.com/apk/res-auto" />

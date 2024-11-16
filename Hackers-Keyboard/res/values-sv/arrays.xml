@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="prediction_modes">
+        <item>Inget</item>
+        <item>Grundinställningar</item>
+        <item>Avancerade</item>
+    </string-array>
+    <string-array name="voice_input_modes">
+        <item>På huvudtangentbordet</item>
+        <item>På symboltangentbordet</item>
+        <item>Av</item>
+    </string-array>
+    <string-array name="voice_input_modes_summary">
+        <item>Mikrofon på huvudtangentbordet</item>
+        <item>Mikrofon på symboltangentbordet</item>
+        <item>Röstindata är inaktiverat</item>
+    </string-array>
+</resources>

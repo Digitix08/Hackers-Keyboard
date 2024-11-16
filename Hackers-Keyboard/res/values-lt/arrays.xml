@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="prediction_modes">
+        <item>Nėra</item>
+        <item>Paprastas</item>
+        <item>Išplėstinis</item>
+    </string-array>
+    <string-array name="voice_input_modes">
+        <item>Pagrindinėje klaviatūroje</item>
+        <item>Simbolių klaviatūroje</item>
+        <item>Išjungta</item>
+    </string-array>
+    <string-array name="voice_input_modes_summary">
+        <item>Pagrindinės klaviatūros mikrofonas</item>
+        <item>Mikrofonas simbolių klaviatūroje</item>
+        <item>Balso įvestis išjungta</item>
+    </string-array>
+</resources>

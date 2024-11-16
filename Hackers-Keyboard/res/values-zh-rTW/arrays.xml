@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="prediction_modes">
+        <item>無</item>
+        <item>基本模式</item>
+        <item>進階模式</item>
+    </string-array>
+    <string-array name="voice_input_modes">
+        <item>於主鍵盤</item>
+        <item>符號鍵盤上</item>
+        <item>關閉</item>
+    </string-array>
+    <string-array name="voice_input_modes_summary">
+        <item>主鍵盤上的麥克風</item>
+        <item>符號鍵盤上的麥克風</item>
+        <item>已停用語音輸入</item>
+    </string-array>
+</resources>

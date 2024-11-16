@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="prediction_modes">
+        <item>ไม่มี</item>
+        <item>พื้นฐาน</item>
+        <item>ขั้นสูง</item>
+    </string-array>
+    <string-array name="voice_input_modes">
+        <item>บนแป้นพิมพ์หลัก</item>
+        <item>บนแป้นพิมพ์สัญลักษณ์</item>
+        <item>ปิด</item>
+    </string-array>
+    <string-array name="voice_input_modes_summary">
+        <item>ไมโครโฟนบนแป้นพิมพ์หลัก</item>
+        <item>ไมโครโฟนบนแป้นพิมพ์สัญลักษณ์</item>
+        <item>การป้อนข้อมูลด้วยเสียงถูกปิดการใช้งาน</item>
+    </string-array>
+</resources>

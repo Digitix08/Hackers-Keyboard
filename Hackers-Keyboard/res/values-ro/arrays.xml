@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="prediction_modes">
+        <item>Niciunul</item>
+        <item>De bază</item>
+        <item>Avansat</item>
+    </string-array>
+    <string-array name="voice_input_modes">
+        <item>Pe tastatura principală</item>
+        <item>Pe tastatura de simboluri</item>
+        <item>Dezactivat</item>
+    </string-array>
+    <string-array name="voice_input_modes_summary">
+        <item>Microfon pe tastatura principală</item>
+        <item>Microfon pe tastatura de simboluri</item>
+        <item>Intrarea vocală este dezactivată</item>
+    </string-array>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="prediction_modes">
+        <item>Tak Satu Pun</item>
+        <item>Dasar</item>
+        <item>Lanjutan</item>
+    </string-array>
+    <string-array name="voice_input_modes">
+        <item>Di keyboard utama</item>
+        <item>Di keyboard simbol</item>
+        <item>Mati</item>
+    </string-array>
+    <string-array name="voice_input_modes_summary">
+        <item>Mik di keyboard utama</item>
+        <item>Mik di keyboard simbol</item>
+        <item>Masukan suara dinonaktifkan</item>
+    </string-array>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="key_height">0.5in</dimen>
+    <dimen name="key_label_text_size">0.20000005in</dimen>
+    <dimen name="key_text_size">0.26in</dimen>
+    <dimen name="key_vertical_pad">0.03999996in</dimen>
+    <dimen name="popup_key_height">0.5in</dimen>
+</resources>

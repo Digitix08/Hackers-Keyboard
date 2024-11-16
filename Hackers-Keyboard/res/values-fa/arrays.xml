@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="prediction_modes">
+        <item>هیچکدام</item>
+        <item>پایه</item>
+        <item>پیشرفته</item>
+    </string-array>
+    <string-array name="voice_input_modes">
+        <item>در صفحه کلید اصلی</item>
+        <item>در صفحه کلید نمادها</item>
+        <item>خاموش</item>
+    </string-array>
+    <string-array name="voice_input_modes_summary">
+        <item>میکروفن در صفحه کلید اصلی</item>
+        <item>میکروفن در صفحه کلید نمادها</item>
+        <item>ورودی صوتی غیر فعال شده است</item>
+    </string-array>
+</resources>
