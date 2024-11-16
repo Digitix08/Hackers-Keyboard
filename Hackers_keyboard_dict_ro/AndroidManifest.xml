@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" package="org.pocketworkstation.dict.ro">
+    <uses-feature android:name="android.hardware.microphone" android:required="false"/>
+    <uses-feature android:name="android.hardware.faketouch" android:required="false"/>
+    <uses-feature android:name="android.hardware.touchscreen" android:required="false"/>
+    <application android:icon="@drawable/icon" android:label="@string/app_name">
+        <activity android:name="org.pocketworkstation.DICT_PLUGIN">
+            <intent-filter>
+                <action android:name="org.pocketworkstation.DICT"/>
+            </intent-filter>
+        </activity>
+    </application>
+</manifest>

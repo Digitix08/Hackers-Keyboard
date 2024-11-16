@@ -1,0 +1,29 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest-Main-Attributes: zasvPbp2Pj22IZ986L4058c4i8Y=
+Created-By: 1.6.0_22 (Sun Microsystems Inc.)
+SHA1-Digest-Manifest: y+kOAYiBOrffcsNhUk3AVoCFSns=
+
+Name: res/drawable-xhdpi/icon.png
+SHA1-Digest: 7lD3tztciM8RQ6FadRF9qbPFjlI=
+
+Name: AndroidManifest.xml
+SHA1-Digest: aJgpFVwzPW1JneIGNSTGTCxyjfo=
+
+Name: res/drawable-ldpi/icon.png
+SHA1-Digest: MqAnr8DsWMw1R4Ga/QCUg7mFM3M=
+
+Name: res/drawable-mdpi/icon.png
+SHA1-Digest: QK5feDDVfbEM3RjHFUKdoHuxOmk=
+
+Name: resources.arsc
+SHA1-Digest: tbqMlsxI/1swnJ8kSJJPMnvxdUQ=
+
+Name: classes.dex
+SHA1-Digest: wudwXUlJBz9ChgA8w5wZvUDxpew=
+
+Name: res/raw/main.dict
+SHA1-Digest: fAtjo/XfaMz8GacH6jrAjxTHhWw=
+
+Name: res/drawable-hdpi/icon.png
+SHA1-Digest: SVf1l0UEoWYp9XsXFx0NXCw5PFI=
+
