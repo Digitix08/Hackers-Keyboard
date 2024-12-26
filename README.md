@@ -15,3 +15,10 @@ Modified apks of hackers keyboard and 3 langpacks to work with android 14
    - Because I couldn't find any official versions
    - Dictionary ripped from AnySoftKeyboards Romanian dictionary
    - I've used the EN autocomplete dict as base
+## Gallery
+![my version works](images/Hacker's%20Keyboard_minMod.jpg)
+My attempt at fixing the keyboard (bugged suggestion row, finds langpacks if using on punctuation autocorrect)
+![en langpack works android 14](images/Hacker's%20Keyboard_dict_en.jpg)
+English langpack on One UI 6.1 (Android 14)
+![ro langpack works](images/Hacker's%20Keyboard_dict_ro.jpg)
+Romanian langpack
